@@ -1,6 +1,6 @@
 # Gift List Management Application
 
-This is a **Gift List Management Application** designed to help users create, manage, and organize gift lists. The app is built using **Java** and **Kotlin** and leverages **Android Jetpack** components such as Room Database and Fragment Navigation.
+This is a **Gift List Management Application** designed to help users create, manage, and organize gift lists. The app is built using **Java** and leverages **Android Jetpack** components such as Room Database and Fragment Navigation.
 
 ## Features
 
