@@ -22,7 +22,7 @@ This is a **Gift List Management Application** designed to help users create, ma
 
 ## Technologies Used
 
-- **Languages**: Java, Kotlin
+- **Languages**: Java
 - **Database**: Room Database
 - **Architecture**: Fragment-based navigation
 - **Build System**: Gradle
@@ -38,4 +38,4 @@ This is a **Gift List Management Application** designed to help users create, ma
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kshitijnatu/Gift-List-Manager.git
